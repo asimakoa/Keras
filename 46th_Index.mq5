@@ -55,59 +55,6 @@ Comment ("Positions Total: " , PositionsTotal() , "\n"
 
  
 
-//      if(PositionVolume<1)
-
-//     {
-
-//         if( PositionType == 0)//0=Buy, 1=Sell
-
-//         {Buy_N_request(BidNassos,BidNassos,0.1);}
-
-//      }     
-
-//      if(PositionVolume<1)
-
-//      {
-
-//         if ( PositionType == 1)  //0=Buy, 1=Sell
-
-//         {Sell_N_request(BidNassos,BidNassos,0.1);}      
-
-//      }                             
-
-//      if(PositionVolume>1)
-
-//      {
-
-//         if(PositionType == 0)//0=Buy, 1=Sell
-
-//         {Sell_N_request(BidNassos,BidNassos,1);}     
-
-//      }                             
-
-//      if(PositionVolume>1)
-
-//      { 
-
-//         if(PositionType == 1)//0=Buy, 1=Sell
-
-//         {Buy_N_request(BidNassos,BidNassos,1);}
-
-//      } 
-
-//           
-
-//Comment ("Positions Total: " , PositionsTotal() , "\n"
-
-//          "Position Type",PositionType,  "\n"
-
-//          "Position Volume",PositionVolume , "\n"
-
-//          "Magic Defined: ",Magic,"\n"          
-
-//          "Static_BAR_Time: ",Static_BAR_Time,"\n"        
-
-//          "Live_Bar_Time_0: " , Live_Bar_Time[0]);
 
 //}//End For
 
