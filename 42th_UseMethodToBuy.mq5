@@ -272,7 +272,7 @@ return TotalSellVolume;
 }//End Sell_Volume Function
 
  
-
+//Afto to function Pano den doulevei. Den mazeuei to BuyVolume. Prospathisa na to kano me to using the CPositionInfo class alla kati den paei kala..
 double Buy_Volume_Method()
 
 {TotalBuyVolume=0;// I make it zero to start count from the begining
