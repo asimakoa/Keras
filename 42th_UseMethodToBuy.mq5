@@ -15,7 +15,7 @@ MqlTradeRequest N_request;  //Load the class and Define an object to use it
 
 MqlTradeResult N_result;    //Load the class and Define an object to use it
 
- 
+ // Gekko wrote here
 
 //Variables Start
 
